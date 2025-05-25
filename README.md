@@ -97,9 +97,3 @@ Secured by **Row-Level Security (RLS)** for user privacy.
 SafeSpot is a secure, intelligent, and user-focused alert companion that empowers people during emergencies by delivering **only what matters**, exactly when and where it’s needed.
 
 ---
-
-## 📝 גרסה בעברית
-
-SafeSpot הוא יישום מבוסס מובייל שמטרתו לסייע לאזרחים בישראל להישאר מעודכנים במהלך אירועים ביטחוניים על ידי סינון **התראות רלוונטיות לפי מיקום** באמצעות **בינה מלאכותית**. המערכת מפחיתה עומס מידע וחרדה הנגרמים מהודעות המוניות שאינן רלוונטיות למשתמש.
-
-המערכת משתמשת ב-RSS, מסווגת התראות עם GPT-4o ומספקת הודעות בזמן אמת. היא בנויה עם React, Supabase, Firebase וכוללת פונקציות Edge לביצוע הסיווג והשליחה.
